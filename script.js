@@ -1,5 +1,4 @@
 // script.js
-
 // Dark Mode Toggle with LocalStorage Persistence
 const toggleDarkMode = () => {
     const body = document.body;
