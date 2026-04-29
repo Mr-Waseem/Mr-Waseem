@@ -5,6 +5,6 @@
 ## Contact Information
 
 Feel free to reach out via the following platforms:
-- Email: waseemkamboh708@gmail.com
+- Email: waseemkamboh424@gmail.com
 - LinkedIn: [Mr. Waseem](https://www.linkedin.com/in/mrwaseem)
 - Twitter: [@mrwaseem](https://twitter.com/mrwaseem)
